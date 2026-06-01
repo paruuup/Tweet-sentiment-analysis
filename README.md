@@ -5,7 +5,12 @@ public sentiment around Indian social issues like cricket, elections,
 pollution, farmers, and more.
 
 ## 📊 Dashboard Preview
-![Sentiment Distribution](sentiment_distribution.png)
+![Sentiment Distribution](01.jpeg)
+![Sentiment Distribution](02.jpeg)
+![Sentiment Distribution](03.jpeg)
+![Sentiment Distribution](04.jpeg)
+
+
 
 ## 🔍 What This Project Does
 - Filters 1.6M tweets for India-related keywords
