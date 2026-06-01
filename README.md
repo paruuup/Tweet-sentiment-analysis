@@ -4,7 +4,7 @@ A end-to-end NLP project analyzing **1.6 million tweets** to understand
 public sentiment around Indian social issues like cricket, elections, 
 pollution, farmers, and more.
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 ![Sentiment Distribution](01.jpeg)
 ![Sentiment Distribution](02.jpeg)
 ![Sentiment Distribution](03.jpeg)
@@ -12,14 +12,14 @@ pollution, farmers, and more.
 
 
 
-## 🔍 What This Project Does
+##  What This Project Does
 - Filters 1.6M tweets for India-related keywords
 - Cleans and preprocesses text (removes URLs, mentions, stopwords)
 - Classifies tweets as **Positive** or **Negative**
 - Visualizes sentiment distribution, word clouds, and time trends
 - Interactive dashboard with live keyword search
 
-## 📈 Key Findings
+##  Key Findings
 - Analyzed **4,491** India-related tweets
 - **56% Negative** and **44% Positive** sentiment overall
 - Tweet activity peaked in **June 2009**
@@ -44,7 +44,7 @@ pollution, farmers, and more.
 ├── wordcloud_negative.png
 └── .gitignore
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo
 ```bash
